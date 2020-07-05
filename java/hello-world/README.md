@@ -9,7 +9,6 @@
 	- [Creating a Project in Eclipse](#creating-a-project-in-eclipse)
 	- [Creating a Project in IntelliJ](#creating-a-project-in-intellij)
 	- [Coding Hello World](#coding-hello-world)
-- [Exercises](#exercises)
 
 <!--TOC_END-->
 ## Overview
