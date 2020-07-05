@@ -1,1 +1,1 @@
-# Discover new technology here
+# Discover new skills with technical tutorials in this repository.
